@@ -28,8 +28,8 @@
 ---
 
 ## 📂 Projects
-- 🔹 Blog System (PHP & MySQL)
-- 🔹 Landing Page (HTML, CSS, JS)
+- 🔹 <a href="https://github.com/Ahmed-Gamal-Gemy/Blog-System-PHP">Blog System (PHP & MySQL)</a>
+- 🔹 <a href="https://ahmed-gamal-gemy.github.io/Yummy-Bite-Landing-Page/">Landing Page (HTML, CSS, JS)</a>
 - 🔹 More projects coming soon 🚀
 
 ---
